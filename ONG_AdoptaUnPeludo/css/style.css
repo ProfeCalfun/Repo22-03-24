@@ -1,0 +1,30 @@
+h1{
+    color: #f39d12f3;
+    text-align: center;
+}
+
+.menu{
+    margin: auto;
+    text-align: right;
+          
+}
+
+a .menu-enlace{
+    margin: 10px;
+    color: rgb(108, 105, 105);
+}
+
+section{
+    text-align: center;
+}
+article{
+    text-align: center;
+}
+img{
+    display: block;
+}
+footer{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
